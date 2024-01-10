@@ -35,3 +35,10 @@ Now, you can tipe:
 ```shell
 clean
 ```
+
+> [!IMPORTANT]
+>
+> Make sure to set PowerShell to only require remote scripts to be signed using the below.
+> ```shell
+> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+> ```
