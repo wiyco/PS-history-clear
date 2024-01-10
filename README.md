@@ -1,6 +1,6 @@
 # PS-history-clear
 
-The command of clear all history in PowerShell.
+The alias of clear all history in PowerShell.
 
 ## Installation
 
