@@ -30,7 +30,7 @@ notepad $PROFILE
 
 ## Usage
 
-Now, you can tipe:
+Now, you can type:
 
 ```shell
 clean
