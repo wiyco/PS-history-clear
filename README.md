@@ -2,7 +2,7 @@
 
 The command of clear all history in PowerShell.
 
-## Files
+## Installation
 
 - [`history_clear.ps1`](#alias)
 - [`Microsoft.PowerShell_profile.ps1`](#profile)
@@ -26,3 +26,12 @@ notepad $PROFILE
 > ```shell
 > New-Item -Path $PROFILE -Type File -Force
 > ```
+
+
+## Usage
+
+Now, you can tipe:
+
+```shell
+clean
+```
